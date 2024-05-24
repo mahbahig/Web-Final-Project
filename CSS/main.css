@@ -1,0 +1,51 @@
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-green {
+    background-color: green !important;
+}
+
+.bg-tomato {
+    background-color: tomato;
+}
+
+img {
+    width: 100%;
+}
+
+#home {
+    height: 135%;
+    background-image: url(../Images/bakery-storage.jpg);
+    background-size: 100% 100%;
+}
+
+
+.btn-brown {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #795548;
+    --bs-btn-border-color: #795548;
+    --bs-btn-hover-color: black;
+    --bs-btn-hover-bg: white;
+    --bs-btn-hover-border-color: white;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #795548;
+    --bs-btn-active-border-color: #795548;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #795548;
+    --bs-btn-disabled-border-color: #795548;
+}
+
+
+.fs-76 {
+    font-size: 76px;
+}
+.fs-17 {
+    font-size: 17px;
+}
+
+.text-gray {
+    color: gray;
+}
