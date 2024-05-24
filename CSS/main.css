@@ -1,15 +1,3 @@
-.bg-blue {
-    background-color: blue;
-}
-
-.bg-green {
-    background-color: green !important;
-}
-
-.bg-tomato {
-    background-color: tomato;
-}
-
 img {
     width: 100%;
 }
@@ -49,8 +37,4 @@ img {
 
 .text-gray {
     color: gray;
-}
-
-.w-fit-content {
-    width: fit-content;
 }
