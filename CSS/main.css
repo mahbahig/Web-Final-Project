@@ -49,3 +49,7 @@ img {
 .text-gray {
     color: gray;
 }
+
+.w-fit-content {
+    width: fit-content;
+}
